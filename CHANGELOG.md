@@ -1,0 +1,8 @@
+- 8a3c015: docs: Add GIT_JOURNEY.md with full documentation (Yaswanth__7, 13 seconds ago)
+- 5981054: docs: Update README (Yaswanth__7, 14 minutes ago)
+- 67b2b3f: docs: Add FAQ section (Yaswanth__7, 15 minutes ago)
+- 4d89041: merge: Resolve all conflicts between main and dev branches (Yaswanth__7, 26 minutes ago)
+- 02011a5: updating dev (Hanu Gupta, 8 days ago)
+- 0312c6f: updating main (Hanu Gupta, 8 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 8 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 8 days ago)
